@@ -1,0 +1,19 @@
+'.source.julia':
+    'Int64':
+        'prefix': 'i'
+        'body': 'Int64'
+    'Float64':
+        'prefix': 'f'
+        'body': 'Float64'
+    'Vector{Int64}':
+        'prefix': 'vf'
+        'body': 'Vector{Int64}'
+    'Vector{Float64}':
+        'prefix': 'vf'
+        'body': 'Vector{Float64}'
+    'Array{Float64,2}':
+        'prefix': 'af'
+        'body': 'Array{Float64,2}'
+    'Sparse Matrix':
+        'prefix': 'sf'
+        'body': 'SparseMatrixCSC{Float64,Int64}'
