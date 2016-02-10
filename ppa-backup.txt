@@ -1,0 +1,10 @@
+ppa:chris-lea/node.js
+ppa:elementary-os/stable
+ppa:inkscape.dev/stable
+ppa:leolik/leolik
+ppa:nilarimogard/webupd8
+ppa:noobslab/themes
+ppa:openshot.developers/ppa
+ppa:staticfloat/julia-deps
+ppa:staticfloat/juliareleases
+ppa:ubuntu-mozilla-security/ppa
